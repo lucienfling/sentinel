@@ -1,0 +1,10 @@
+{
+  "buildCommand": "pnpm --filter @workspace/sentinel run build",
+  "outputDirectory": "artifacts/sentinel/dist/public",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
