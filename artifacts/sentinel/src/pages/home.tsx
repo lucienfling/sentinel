@@ -50,7 +50,7 @@ export default function Home() {
               transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
               className="max-w-2xl text-lg text-muted-foreground mb-10 font-light leading-relaxed"
             >
-              Sentinel is not a dashboard. It is an Executive Intelligence System that transforms scattered data across your tools into a single, daily briefing. Calm, authoritative, prepared.
+              Your daily executive briefing. One signal, no noise.
             </motion.p>
             
             <motion.div 
