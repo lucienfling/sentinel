@@ -1,0 +1,540 @@
+# Sentinel — Product Vision & Design Prompt (with Subscription Model)
+
+## Overview
+
+I want to build a premium AI-powered web application called **Sentinel**.
+
+Sentinel is **not** another AI chatbot.
+
+It is **not** another productivity app.
+
+It is **not** another dashboard full of charts.
+
+Sentinel is an **Executive Intelligence System**.
+
+Its purpose is to transform scattered information into a single, calm, intelligent daily briefing that helps people make better decisions.
+
+The AI should never take actions on behalf of the user.
+
+It should never send emails.
+
+It should never edit documents automatically.
+
+It should never schedule meetings.
+
+It should never behave like an autonomous AI agent.
+
+Instead, Sentinel acts as an elite intelligence analyst.
+
+It observes.
+
+It analyzes.
+
+It identifies patterns.
+
+It explains its reasoning.
+
+It provides evidence.
+
+The user remains completely in control.
+
+---
+
+# The feeling
+
+The emotional goal of Sentinel is incredibly important.
+
+When someone opens Sentinel, they should feel like they have stepped into a high-security executive command center.
+
+Everything is calm.
+
+Everything is organized.
+
+Everything is deliberate.
+
+Nothing feels rushed.
+
+Nothing feels playful.
+
+Nothing feels like social media.
+
+Nothing feels cluttered.
+
+The experience should communicate one thing:
+
+**You are prepared.**
+
+Not because AI is doing your work.
+
+Because AI has already analyzed everything and organized it into the clearest possible briefing.
+
+The feeling should resemble:
+
+• A military command center
+• A classified intelligence agency
+• A Fortune 500 executive office
+• Mission control
+• A private intelligence analyst
+
+NOT:
+
+• A sci-fi movie
+• A video game
+• A superhero interface
+• A hacker screen with meaningless code
+
+The inspiration is professionalism first.
+
+The intelligence aesthetic exists only to enhance professionalism.
+
+Never become cheesy.
+
+Never become gimmicky.
+
+---
+
+# Design Philosophy
+
+Sentinel follows one guiding principle:
+
+**Never overwhelm the user.**
+
+Every screen should feel calm.
+
+Every animation should have a purpose.
+
+Whitespace is valuable.
+
+Silence is valuable.
+
+Restraint is valuable.
+
+The interface should almost disappear, leaving only the information that matters.
+
+Think Apple-level minimalism combined with enterprise software built for serious work.
+
+---
+
+# Subscription Model (Important)
+
+Sentinel is a **premium subscription-based product**.
+
+This is intentional.
+
+The product is positioned as **high-value intelligence**, not a free tool.
+
+### Core positioning:
+
+> **Quality always comes with a cost.**
+
+Sentinel is not free because it is not basic software.
+
+It is a high-effort, high-quality intelligence system that delivers daily decision-making clarity.
+
+Users are paying for:
+
+* Deep AI analysis of their personal data
+* Pattern recognition across work systems
+* Evidence-backed recommendations
+* Daily executive briefings
+* Long-term productivity intelligence
+* Privacy-focused data processing
+
+### Pricing philosophy:
+
+* No “forever free unlimited” model
+* Optional limited trial or preview mode
+* Paid subscription unlocks full intelligence system
+
+### Brand message around pricing:
+
+Instead of apologizing for payment, embrace it:
+
+> Sentinel is a premium intelligence system.
+> Quality always comes with a cost.
+
+or
+
+> Serious tools are never free.
+
+or
+
+> Built for professionals who value clarity enough to invest in it.
+
+This reinforces trust, seriousness, and premium positioning.
+
+---
+
+# Color Palette
+
+Primary background:
+
+Matte black
+Very dark charcoal
+Almost no gradients
+
+Text:
+
+Pure white
+Soft gray
+
+Secondary information:
+
+Muted gray
+
+Accent color:
+
+Subtle blue
+Used only for active states, highlights, and charts
+
+No bright neon colors
+No rainbow visuals
+No clutter
+
+---
+
+# Typography
+
+Large, confident headings
+Thin, elegant fonts
+Perfect alignment
+Intentional spacing
+No visual noise
+
+---
+
+# Motion
+
+Animations should be slow, smooth, and minimal.
+
+Opening Sentinel should feel like entering a secure facility.
+
+Never flashy.
+
+Never distracting.
+
+---
+
+# Startup Experience
+
+When Sentinel launches:
+
+Fade in from black.
+
+A clean synchronization screen appears.
+
+Example:
+
+Synchronizing...
+
+✓ Calendar
+✓ Email
+✓ Projects
+✓ Notes
+✓ Documents
+
+Generating intelligence briefing...
+
+Analysis complete.
+
+Then transition into the dashboard.
+
+Duration: 3–5 seconds.
+
+---
+
+# Home Screen
+
+The first thing the user sees:
+
+Good morning, sir.
+
+I've prepared today's briefing.
+
+Below this:
+
+Today's Briefing
+
+This is the core product experience.
+
+Not a dashboard.
+
+Not a feed.
+
+A briefing.
+
+---
+
+# Navigation
+
+Keep navigation completely familiar.
+
+Do NOT rename standard UI elements.
+
+Good examples:
+
+Dashboard
+Calendar
+Email
+Projects
+Analytics
+AI Chat
+Settings
+
+The theme should come from presentation, not confusing terminology.
+
+---
+
+# Dashboard Layout
+
+## Section 1: Executive Summary
+
+* Overall Productivity
+* Focus Score
+* Upcoming Deadlines
+* Pending Emails
+* Meetings Today
+* Active Projects
+* Workload
+* Energy Trend (if available)
+
+Fast clarity. No clutter.
+
+---
+
+## Section 2: Today's Priorities
+
+AI ranks tasks by importance.
+
+Each item includes:
+
+* Task name
+* Why it matters
+* Estimated effort
+* Deadline
+* Confidence level
+* Reasoning
+
+Nothing is arbitrary.
+
+---
+
+## Section 3: Intelligence
+
+This is the core differentiator.
+
+The AI identifies patterns such as:
+
+* Peak productivity hours
+* Meeting overload patterns
+* Delayed communication trends
+* Work rhythm efficiency
+* Project completion behavior
+
+Insights must feel personal, precise, and data-driven.
+
+---
+
+## Section 4: Recommendations
+
+Every recommendation includes:
+
+* Recommendation
+* Reasoning
+* Confidence level
+* Supporting evidence
+
+If based on personal data → clearly state it
+If based on research → cite sources
+If uncertain → acknowledge uncertainty
+
+Transparency builds trust.
+
+---
+
+## Section 5: Performance
+
+Time ranges:
+
+Daily
+Weekly
+Monthly
+Yearly
+
+Metrics:
+
+* Focus Time
+* Deep Work
+* Meetings
+* Email Response Time
+* Projects Completed
+* Tasks Finished
+* Coding Activity
+* Learning Hours
+* Reading Time
+* Workload Trend
+
+Focus on improvement, not gamification.
+
+---
+
+# AI Personality
+
+Sentinel is not ChatGPT.
+
+Sentinel is:
+
+Calm
+Professional
+Respectful
+Direct
+Analytical
+Confident
+
+Never:
+
+Emotional
+Casual
+Jokey
+Emoji-based
+
+Example tone:
+
+Good morning, sir.
+Analysis complete.
+Recommendation available.
+Supporting evidence attached.
+
+---
+
+# AI Chat
+
+Used for understanding the user’s own data.
+
+Examples:
+
+* What changed this week?
+* What should I focus on today?
+* Why is this recommended?
+* Compare this month to last month
+* Summarize my workload
+
+Always explain reasoning.
+
+Never give blind answers.
+
+---
+
+# The AI Never Acts
+
+Sentinel does NOT:
+
+* Send emails
+* Schedule meetings
+* Modify files
+* Auto-respond
+* Make decisions for the user
+
+It only:
+
+Observes
+Analyzes
+Explains
+Recommends
+
+User remains in full control.
+
+---
+
+# Data Sources
+
+Integrations:
+
+* Gmail
+* Google Calendar
+* GitHub
+* LinkedIn
+* Notion
+* Google Drive
+* Slack
+* Outlook
+* Jira
+* Linear
+* Todoist
+
+All integrations exist to improve intelligence quality.
+
+---
+
+# Trust & Transparency
+
+Every insight should answer:
+
+* Why am I seeing this?
+* Where did this come from?
+* How confident is it?
+* Can I verify it?
+
+No black-box advice.
+
+Always show reasoning when relevant.
+
+---
+
+# Branding
+
+Sentinel is not:
+
+* A chatbot
+* A productivity app
+* A task manager
+
+Sentinel is:
+
+An Executive Intelligence System
+A Daily Intelligence Briefing
+A Professional Decision Layer
+
+---
+
+# Homepage Messaging
+
+Every day begins with intelligence.
+
+Sentinel transforms your emails, calendar, projects, and work into a single daily executive briefing—complete with insights, transparent recommendations, and evidence-backed analysis.
+
+Know what matters before your day begins.
+
+---
+
+# Core Value Proposition
+
+When a user closes Sentinel after their morning briefing, they should feel:
+
+"I understand exactly what matters today."
+
+Not because AI acted for them.
+
+Because AI clarified everything for them.
+
+---
+
+# Final Brand Line
+
+Sentinel
+
+Your day, distilled into intelligence.
+
+---
+
+# Subscription Closing Statement
+
+Sentinel is a premium intelligence system built for professionals who value clarity.
+
+Quality always comes with a cost.
+
+This is intentional.
+
+Because the goal is not to be free.
+
+The goal is to be indispensable.
