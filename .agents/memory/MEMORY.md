@@ -1,0 +1,3 @@
+- [OpenAI client setup](openai-client.md) — uses OPENAI_API_KEY directly (not Replit AI Integrations); ALL three client.ts files in the lib must use this pattern
+- [Sentinel auth pattern](sentinel-auth.md) — Clerk Express middleware wired without publishableKeyFromHost (not exported in @clerk/shared v2); use clerkMiddleware() directly
+- [Sentinel DB schema](sentinel-db.md) — conversations table requires userId column for per-user ownership; IDOR fix applied to all OpenAI routes
